@@ -1,4 +1,4 @@
-# BeetsAndroid
+# Beets-client for Android
 Some preliminary planning for an Android client utilizing the Beets-project, once it has an API of some kind.
 
 Some ideas (I'll make some mockups when I have spare time):
