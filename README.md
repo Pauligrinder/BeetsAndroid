@@ -1,7 +1,7 @@
 # Beets-client for Android
 Some preliminary planning for an Android client utilizing the Beets-project, once it has an API of some kind.
 
-Some ideas (I'll make some mockups when I have spare time):
+Some ideas:
  
   * The start page of the app would list recently imported albums in a nice grid view or similar.
   * Another page would contain a grid view with all the user's albums, allowing the user to browse and edit their metadata. They could also be grouped by Artist/Genre/Year/etc. to prevent having to fetch a huge payload of data at once.
