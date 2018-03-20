@@ -1,4 +1,7 @@
 # Beets-client for Android
+
+This is unfortunately abandoned, as I don't use beets anymore due to my music harddrive breaking :'(
+
 Some preliminary planning for an Android client utilizing the Beets-project, once it has an API of some kind.
 
 Some ideas:
